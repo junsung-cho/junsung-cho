@@ -21,9 +21,9 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3.svg?style=for-the-badge&logo=Neo4j&logoColor=white)
 
-### Data & Machine Learning
+### Machine Learning
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -35,17 +35,3 @@
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)
-<!--
-**junsung-cho/junsung-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
