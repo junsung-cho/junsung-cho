@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+## Tech stak
 
 ### Backend
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -36,6 +38,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)
 
-### Contribution
+## Contribution
 * https://github.com/web3j/web3j/pull/1716
 * https://github.com/web3j/web3j/pull/1714
