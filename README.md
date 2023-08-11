@@ -38,6 +38,59 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)
 
-## Contribution
+## Contributions
 * https://github.com/web3j/web3j/pull/1716
 * https://github.com/web3j/web3j/pull/1714
+
+## Publications
+* **On the Security and Usability Implications of Multiple Authentication Choices**
+<br/>ACM Transactions on Privacy and Security *(IF 1.714)*, 2020.
+
+* **SENTINEL: A Secure and Efficient Authentication Framework for Unmanned Aerial Vehicles**
+<br/>Applied Sciences  *(IF 2.217)*, Vol. 10(9), 2020.
+
+* **ACIDroid: A Practical App Cache Integrity Protection System on Android Runtime**
+<br/>SAC: The 35th ACM/SIGAPP Symposium On Applied Computing, Brno, Czech Republic, 2020.
+
+* **Towards Secure and Usable User Authentication Framework Using a Secondary Device on Industrial Internet of Things**
+<br/>Applied Sciences *(IF 2.217)*, Vol. 10(6), 2020.
+
+* **Data-driven selection of application frameworks during architectural design**
+<br/>HICSS: The 52nd Hawaii International Conference on System Sciences, Hawaii, USA, 2019.
+
+* **Design and Analysis of Push Notification-Based Malware on Android**
+<br/>Security and Communication Networks *(IF 1.376)*, Vol. 2018, 2018.
+
+* **The Personal Identification Chord: A Four Button Authentication System for Smartwatches**
+<br/>ASIACCS: The 11th ACM Asia Conference on Computer and Communications Security, Incheon, Korea, 2018.
+
+* **User Credential Cloning Attacks in Android Applications: Exploiting Automatic Login on Android Apps and Mitigating Strategies**
+<br/>IEEE Consumer Electronics Magazine *(IF 3.273)*, Vol. 7(3), 2018.
+
+* **Hello. Facebook! Here is the stalkers' paradise!: Design and analysis of enumeration attack using phone numbers on Facebook**
+<br/>ISPEC: The 13rd International Conference on Information Security Practice and Experience, Melbourne, Australia, 2017.
+
+* **Open Sesame! Design and Implementation of a Backdoor to Secretly Unlock Android Devices**
+<br/>MobiSec: The International Symposium on Mobile Internet Security, Jeju Island, Korea, 2017.
+<br/>Journal of Internet Services and Information Security, Vol. 7(4), 2017.
+
+* **IoE Security Threats and You**
+<br/>ICSSA: The 3rd International Conference on Software Security and Assurance, Altoona, USA, 2017.
+
+* **SysPal: System-guided Pattern Locks for Android**
+<br/>S&P: The 38th IEEE Symposium on Security and Privacy, San Jose, USA, 2017.
+
+* **Design of Backdoor on Android Devices**
+<br/>S&P: The 38th IEEE Symposium on Security and Privacy (Poster), San Jose, USA, 2017.
+
+* **Wrong Siren! A location spoofing attack on indoor positioning systems: the Starbucks case study**
+<br/>IEEE Communications Magazine *(IF 10.356)*, Vol. 55(3), 2017.
+
+* **Combating online fraud attacks in mobile-based advertising**
+<br/>EURASIP Journal on Information Security, Vol. 2016(1), 2016.
+
+* **An empirical study of click fraud in mobile advertising networks**
+<br/>IWCC: The 4th Workshop on Cyber Crime held in conjunction with ARES, Toulouse, France, 2015.
+
+* **Keyboard or Keylogger?: a security analysis of third-party keyboards on Android**
+<br/>PST: The 13rd International Conference on Privacy. Security and Trust, Izmir, Turkey, 2015.
