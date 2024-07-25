@@ -40,8 +40,10 @@
 ![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)
 
 ## Contributions
-* https://github.com/web3j/web3j/pull/1716
-* https://github.com/web3j/web3j/pull/1714
+* https://github.com/hyperledger/web3j/pull/1716
+* https://github.com/hyperledger/web3j/pull/1714
+* https://github.com/hyperledger/web3j/pull/2083
+* https://github.com/hyperledger/web3j/pull/2084
 
 ## Publications
 * **On the Security and Usability Implications of Multiple Authentication Choices**
