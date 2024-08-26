@@ -16,6 +16,10 @@
 ![Hyperledger Besu](https://img.shields.io/badge/Hyperledger_Besu-2F3134.svg?style=for-the-badge&logo=Hyperledger&logoColor=white)
 ![Bitcoin Core](https://img.shields.io/badge/Bitcoin_Core-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
 
+### Messaging
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=ApacheKafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -32,11 +36,12 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-### etc.
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=ApacheKafka&logoColor=white)
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=white)
 ![Naver Cloud Platform](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)
 
 ## Contributions
